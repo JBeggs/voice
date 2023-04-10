@@ -18,7 +18,7 @@ word_dict = {}
 
 def ask_chatGTP_question(question):
 
-    openai.api_key = "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"
+    openai.api_key = "sk-dfsdfsdfsaopfisfasfasdfblank"
     model_engine   = "text-ada-001"
     prompt         = question
 
